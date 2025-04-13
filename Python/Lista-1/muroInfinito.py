@@ -38,7 +38,7 @@ def muroInf(n, s, x, muro):
 
     return False
 
-#criando o muro (hard coded)
+#Criando o muro (hard coded)
 
 muro = [13, 47, 58, 12, 20, 4, 56, 9]
 s = 2 #posição inicial
